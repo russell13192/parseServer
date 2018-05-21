@@ -1,4 +1,4 @@
-#Sun May 20 19:39:16 CDT 2018
-base.0=D\:\\AndroidProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+#Mon May 21 01:51:05 CDT 2018
+base.0=D\:\\AndroidProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\43
 path.0=classes.dex
 renamed.0=classes.dex

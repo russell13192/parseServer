@@ -4,24 +4,7 @@
             "outputFile": "D:\\AndroidProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-en-rAU\\values-en-rAU.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Russell Murray\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-23.0.0.aar\\45c289262a52c63cf9dfe727453b7198\\res\\values-en-rAU\\values-en-rAU.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8,9,10,11,12,13,14",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "282,387,501,606,711,831,927,1021,1140,1242,1328",
-                        "endColumns": "104,113,104,104,119,95,93,118,101,85,93",
-                        "endOffsets": "382,496,601,706,826,922,1016,1135,1237,1323,1417"
-                    },
-                    "to": {
-                        "startLines": "21,22,23,24,25,26,27,28,29,30,31",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "1969,2074,2188,2293,2398,2518,2614,2708,2827,2929,3015",
-                        "endColumns": "104,113,104,104,119,95,93,118,101,85,93",
-                        "endOffsets": "2069,2183,2288,2393,2513,2609,2703,2822,2924,3010,3104"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Russell Murray\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\12f37c6577c4549047f432338bc9cebc\\res\\values-en-rAU\\values-en-rAU.xml",
+                    "source": "C:\\Users\\Russell Murray\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\98d2bfba2d855de3d4a80a93699ac0f0\\res\\values-en-rAU\\values-en-rAU.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -38,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Russell Murray\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-wallet-9.4.0.aar\\0cd072be6f9f087af801d201ba824d68\\res\\values-en-rAU\\values.xml",
+                    "source": "C:\\Users\\Russell Murray\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-wallet-9.4.0.aar\\d36ef6188a6e75573b34fe8584fed386\\res\\values-en-rAU\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "4",
@@ -52,6 +35,23 @@
                         "startOffsets": "3210",
                         "endColumns": "103",
                         "endOffsets": "3309"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Russell Murray\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-23.0.0.aar\\20a4332676c2d5c7dff7d7ab35fc78aa\\res\\values-en-rAU\\values-en-rAU.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "282,387,501,606,711,831,927,1021,1140,1242,1328",
+                        "endColumns": "104,113,104,104,119,95,93,118,101,85,93",
+                        "endOffsets": "382,496,601,706,826,922,1016,1135,1237,1323,1417"
+                    },
+                    "to": {
+                        "startLines": "21,22,23,24,25,26,27,28,29,30,31",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1969,2074,2188,2293,2398,2518,2614,2708,2827,2929,3015",
+                        "endColumns": "104,113,104,104,119,95,93,118,101,85,93",
+                        "endOffsets": "2069,2183,2288,2393,2513,2609,2703,2822,2924,3010,3104"
                     }
                 }
             ]

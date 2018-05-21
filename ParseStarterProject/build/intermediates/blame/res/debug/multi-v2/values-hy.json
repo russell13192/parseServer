@@ -4,7 +4,7 @@
             "outputFile": "D:\\AndroidProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hy\\values-hy.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Russell Murray\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-9.4.0.aar\\6aa8dcccda17d2f51ccb8a383b61bf4d\\res\\values-hy\\values.xml",
+                    "source": "C:\\Users\\Russell Murray\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-9.4.0.aar\\fb10128383fffc62855e56fb6a547e2f\\res\\values-hy\\values.xml",
                     "from": {
                         "startLines": "4,5",
                         "startColumns": "4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Russell Murray\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-wallet-9.4.0.aar\\0cd072be6f9f087af801d201ba824d68\\res\\values-hy\\values.xml",
+                    "source": "C:\\Users\\Russell Murray\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-wallet-9.4.0.aar\\d36ef6188a6e75573b34fe8584fed386\\res\\values-hy\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "4",
@@ -38,24 +38,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Russell Murray\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\3566e5345dcc0677d46ac71a078cdf3e\\res\\values-hy\\values.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "329,437,634,770,909,1131,1354,1492,1634,1905,2036,2146,2345,2483,2704,2844,3040,3135,3232",
-                        "endColumns": "107,196,135,138,221,222,137,141,270,130,109,198,137,220,139,195,94,96,110",
-                        "endOffsets": "432,629,765,904,1126,1349,1487,1629,1900,2031,2141,2340,2478,2699,2839,3035,3130,3227,3338"
-                    },
-                    "to": {
-                        "startLines": "36,37,38,39,40,41,42,43,45,46,47,48,49,50,51,52,53,54,55",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "3600,3708,3905,4041,4180,4402,4625,4763,5164,5435,5566,5676,5875,6013,6234,6374,6570,6665,6762",
-                        "endColumns": "107,196,135,138,221,222,137,141,270,130,109,198,137,220,139,195,94,96,110",
-                        "endOffsets": "3703,3900,4036,4175,4397,4620,4758,4900,5430,5561,5671,5870,6008,6229,6369,6565,6660,6757,6868"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Russell Murray\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-9.4.0.aar\\391f67335f81e918447ba3078ea04641\\res\\values-hy\\values.xml",
+                    "source": "C:\\Users\\Russell Murray\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-9.4.0.aar\\ad5db86094a70661772555d68b3a482b\\res\\values-hy\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "4",
@@ -72,7 +55,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Russell Murray\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.4.0.aar\\a2f0fc980e039bec24af46e4bdc117de\\res\\values-hy\\values.xml",
+                    "source": "C:\\Users\\Russell Murray\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.4.0.aar\\9f0f9eb580e669ffae9b1686580a4a00\\res\\values-hy\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -89,7 +72,24 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Russell Murray\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-9.4.0.aar\\d67d22bedc34c8d5651299855736a888\\res\\values-hy\\values.xml",
+                    "source": "C:\\Users\\Russell Murray\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\d6dd09b2b503f898d585fb7b596c2881\\res\\values-hy\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "329,437,634,770,909,1131,1354,1492,1634,1905,2036,2146,2345,2483,2704,2844,3040,3135,3232",
+                        "endColumns": "107,196,135,138,221,222,137,141,270,130,109,198,137,220,139,195,94,96,110",
+                        "endOffsets": "432,629,765,904,1126,1349,1487,1629,1900,2031,2141,2340,2478,2699,2839,3035,3130,3227,3338"
+                    },
+                    "to": {
+                        "startLines": "36,37,38,39,40,41,42,43,45,46,47,48,49,50,51,52,53,54,55",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "3600,3708,3905,4041,4180,4402,4625,4763,5164,5435,5566,5676,5875,6013,6234,6374,6570,6665,6762",
+                        "endColumns": "107,196,135,138,221,222,137,141,270,130,109,198,137,220,139,195,94,96,110",
+                        "endOffsets": "3703,3900,4036,4175,4397,4620,4758,4900,5430,5561,5671,5870,6008,6229,6369,6565,6660,6757,6868"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Russell Murray\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-9.4.0.aar\\e9f9cd4defac3534bfe56cc9980f6387\\res\\values-hy\\values.xml",
                     "from": {
                         "startLines": "4,5,6",
                         "startColumns": "4,4,4",
